@@ -1,8 +1,12 @@
+import { Button } from "antd";
 import React from "react";
-import "./App.scss";
 
 const App = () => {
-  return <div className="App">asd</div>;
+  return (
+    <div>
+      <Button>sasad</Button>
+    </div>
+  );
 };
 
 export default App;
